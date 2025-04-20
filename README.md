@@ -5,9 +5,9 @@ Implementation of object motion and collision detection using SFML library and C
 - Language - C++
 - Graphics Library - SFML 3
 
-##Previews
+## Previews
 
-![previewVideo]()
+![previewVideo](https://github.com/SazidRahman226/Object-motion-and-collision/blob/e15faccf0cc8c0e3306e47d8ff3ae4424992b655/previews/preview5%20-%20Made%20with%20Clipchamp.mp4)
 
 ## How to run
 - Clone the repository and run main.exe
