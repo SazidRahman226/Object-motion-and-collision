@@ -1,0 +1,1 @@
+g++ main.cpp -o main.exe -I"E:\SFML\include" -L"E:\SFML\lib" -lsfml-graphics -lsfml-window -lsfml-system
