@@ -7,7 +7,7 @@ Implementation of object motion and collision detection using SFML library and C
 
 ## Previews
 
-![previewVideo](https://github.com/SazidRahman226/Object-motion-and-collision/blob/e15faccf0cc8c0e3306e47d8ff3ae4424992b655/previews/preview5%20-%20Made%20with%20Clipchamp.mp4)
+![previewVideo](https://github.com/SazidRahman226/Object-motion-and-collision/blob/ee9b475fb4b649babdca76006c37f92e5c6dd2d3/previews/preview5.gif)
 
 ## How to run
 - Clone the repository and run main.exe
